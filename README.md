@@ -46,7 +46,7 @@ WxHook是一个基于dll注入实现的python微信机器人框架，支持多�
 39. 测试
   
 ## 微信版本下载
-- [WeChatSetup3.9.5.81.exe](https://github.com/muskf/wechat-windows-versions/releases/download/v3.9.5.81/WeChatSetup-3.9.5.81.exe)
+- [WeChatSetup3.9.5.81.exe](https://github.com/tom-snow/wechat-windows-versions/releases/download/v3.9.5.81/WeChatSetup-3.9.5.81.exe)
 
 ## 安装
 
